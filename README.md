@@ -40,4 +40,4 @@ Este projeto é um backend em Node.js que realiza scraping das 10 principais not
 
 ## Autor
 
-Feito com ❤️ por [Seu Nome]
+Feito com ❤️ por José Fernando
